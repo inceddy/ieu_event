@@ -1,13 +1,13 @@
 {
-    "name": "stg/ieu_events",
-    "description": "ieUtilities Framework - Events",
+    "name": "stg/ieu_event",
+    "description": "ieUtilities Framework - Event",
     "type": "",
     "license": "MIT",
     "version": "1.0",
     "authors": [
         {
             "name": "Philipp Steingrebe",
-            "email": "philipp@steingrebe.de"
+            "email": "development@steingrebe.de"
         }
     ],
     "autoload": {
